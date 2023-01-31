@@ -46,3 +46,33 @@ _Italic_
 # 인라인 코드 강조
 
 `printf("hello world");` 코드 강조
+
+# 블록 코드 강조
+
+```html
+<a href="https://naver.com">NAVER</a>
+```
+
+```bash
+$ git add .
+```
+
+# 표(Table)
+
+| 값       |       의미        | 기본값 |
+| -------- | :---------------: | -----: |
+| static   |     기준 없음     |      0 |
+| relative | 위치 상 부모 요소 |      X |
+
+# 원시 HTML (RAW HTML)
+
+안녕하세요.  
+ 이건 문장입니다.
+
+# 수평선 (Horizontal Rule)
+
+---
+
+---
+
+---
