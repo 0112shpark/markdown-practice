@@ -32,7 +32,7 @@ _Italic_
 
 # 링크(Link)
 
-<a href="https://naver.com">NAVER</a>  
+<a href="https://naver.com" target = "_blank">NAVER</a>  
 [NAVER](https://naver.com)  
 [NAVER](https://naver.com "NAVER로 이동")  
 이미지는 !추가  
